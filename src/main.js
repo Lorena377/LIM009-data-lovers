@@ -55,6 +55,7 @@ const listaDePokemones = (data) => {
   containerList.innerHTML = mostrar;
 };
 listaDePokemones(arrayPokemon);
+
 // la funcion para el ordenado //
 pokemonesOrdenados.addEventListener('change', () => {
   const ordenando = pokemon.ordenarPokemones(dataPokemon, pokemonesOrdenados.value);
