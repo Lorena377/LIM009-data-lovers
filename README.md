@@ -122,6 +122,12 @@ Se mostró a los usuarios el prototipo de alta fidelidad y la interfaz de las pr
 
 Después de mostrar el prototipo de alta fidelidad, los usuarios solicitaron que la pagina sea más práctica, es por ello que se retiraron los botones de ordenado y filtrado y se colocaron en una segunda y tercera pantalla, para que la pagina se más amigable.
 
+### Test de usabilidad parte dos
+
+Se realiza el testeo de alta fidelidad con excelentes comentarios para mejora por parte del usuario. El usurio se llama Alexis Amador de 27 años, nos indica que la pagina deberia tener un nombre y una descripción. Se adjunta imagen de feedback.
+
+![testeo]https://i.ibb.co/LJS0W0P/Alexis-Amador.png
+
 ### IMPLEMENTACIÓN DE LA INTERFAZ DE USUARIO (HTML/CSS/JS)
 
 
