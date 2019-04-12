@@ -147,3 +147,8 @@ Después de mostrar el prototipo de alta fidelidad, los usuarios solicitaron que
 Se realizo el test, para comprobar el porcentaje de funcionalidad del proyecto, obteniendo como resultado un 90.48%.
 
 ![test](https://i.ibb.co/JvyMg3d/testa-al-90-48.png)
+
+
+#### Links de Zeplin
+[links zepli](https://zpl.io/b64l1Ry)
+[links zepli](https://zpl.io/blDNDQz)
