@@ -126,7 +126,7 @@ Después de mostrar el prototipo de alta fidelidad, los usuarios solicitaron que
 
 Se realiza el testeo de alta fidelidad con excelentes comentarios para mejora por parte del usuario. El usurio se llama Alexis Amador de 27 años, nos indica que la pagina deberia tener un nombre y una descripción. Se adjunta imagen de feedback.
 
-![testeo]https://i.ibb.co/LJS0W0P/Alexis-Amador.png
+![testeo](https://i.ibb.co/LJS0W0P/Alexis-Amador.png)
 
 ### IMPLEMENTACIÓN DE LA INTERFAZ DE USUARIO (HTML/CSS/JS)
 
