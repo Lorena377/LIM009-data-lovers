@@ -2,16 +2,25 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>POKEMON GO</title>
+  <title>POKE GO</title>
   <link rel="stylesheet" href="style.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
-  <div id="root"></div>
+<header>
+  <nav class="navegacion">
+      <ul class="menu">
+          <li><a href="#"  id="inicio">INICIO</a></li>
+          <li><a href="#"  id="pokeDex">POKEDEX</a></li>
+          <li><a href="#"  id="estadistica">ESTADISTICA</a></li>
+        </ul>
+  </nav>
+</header>
+<!--<div id="root"></div>
   <button id="inicio">INICIO</button>
   <button id="pokeDex">POKEDEX</button>
-  <button id="estadistica">ESTADISTICA</button>
+  <button id="estadistica">ESTADISTICA</button>-->
   <div class="slider">
     <ul>
       <li><img src="img/imag1.png" alt=""></li>
@@ -40,16 +49,17 @@
       <li><img src="img/24.png" alt=""></li>
     </ul>
   </div>
+
   <div id="primeraPantalla">
-    <div id="imagen">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/yQCREgz4tQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-    </div>
-  </div>
+    <div>
+       <iframe width="860" height="515" src="https://www.youtube.com/embed/MynNG2IRZDI" preload="auto" autoplay loop muted frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        </div>
+  
   <div id="segundaPantalla">
     <div class="group">
       <select class="select" id="orden-pokemon">
-        <option value="">Ordena aquí tus Pokemones alfabeticamente</option>
+        <option value="">Ordena los Pokemones alfabeticamente</option>
         <option value="Az">de A a Z</option>
         <option value="Za">de Z a A</option>
       </select>

@@ -17,6 +17,7 @@ seccionInicio.addEventListener('click', () => {
   paginaInicio.style.display = 'block';
   paginapokedex.style.display = 'none';
   paginaEstadistica.style.display = 'none';
+  container.style.display = 'none';
 });
 
 seccionPokedex.addEventListener('click', () => {
